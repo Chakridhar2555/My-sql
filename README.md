@@ -2,7 +2,7 @@
 
 
 markdown
-Copy code
+
 # SQL Learning Project
 
 This repository contains several SQL scripts I created while learning SQL for the first time. These scripts cover various fundamental concepts of SQL, such as database creation, inserting and querying data, joins, and aggregate functions.
@@ -59,6 +59,7 @@ This repository contains several SQL scripts I created while learning SQL for th
 1. Clone the repository:
    ```bash
    git clone https://github.com/Chakridhar2555/sql-learning-project.git
+
 Execute the SQL scripts in your preferred SQL environment (MySQL, PostgreSQL, etc.) using a command-line tool or database management system (e.g., MySQL Workbench).
 
 For example, to execute create_school_db.sql, use:
